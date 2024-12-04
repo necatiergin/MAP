@@ -11,5 +11,5 @@ value_type(std::piecewise_construct, std::forward_as_tuple(k), std::forward_as_t
 
 geri dönüş değeri türü : _pair<iterator, bool>_
 
-eklele (_insertion_) yapılmadığında fonksiyona gönderilen argümanın kaynağı çalınmaz.
+ekleme (_insertion_) yapılmadığında fonksiyona gönderilen argümanın kaynağı çalınmaz.
 
